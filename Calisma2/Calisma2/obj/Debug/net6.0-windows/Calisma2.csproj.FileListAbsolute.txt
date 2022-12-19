@@ -1,0 +1,37 @@
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\bin\Debug\net6.0-windows\Calisma2.exe
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\bin\Debug\net6.0-windows\Calisma2.deps.json
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\bin\Debug\net6.0-windows\Calisma2.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\bin\Debug\net6.0-windows\Calisma2.dll
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\bin\Debug\net6.0-windows\Calisma2.pdb
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.Form1.resources
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.dll
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\refint\Calisma2.dll
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.pdb
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\ref\Calisma2.dll
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.tekCift.resources
+C:\Users\HUAWEI\source\repos\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.OrtveAlanHesaplama.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\bin\Debug\net6.0-windows\Calisma2.exe
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\bin\Debug\net6.0-windows\Calisma2.deps.json
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\bin\Debug\net6.0-windows\Calisma2.runtimeconfig.json
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\bin\Debug\net6.0-windows\Calisma2.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\bin\Debug\net6.0-windows\Calisma2.pdb
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.OrtveAlanHesaplama.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.tekCift.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.AssemblyInfo.cs
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\refint\Calisma2.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.pdb
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\Calisma2.genruntimeconfig.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Calisma2\Calisma2\obj\Debug\net6.0-windows\ref\Calisma2.dll
